@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fidofid
+- 👋 Hi, I’m @Fido
 - 👀 I’m interested in VB.NET
 - 🌱 I’m currently learning ...
 .
